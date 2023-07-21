@@ -10,10 +10,11 @@ Rhino-Python digitale Version
 
 
 ### Algorithmus
-· Richtung der Skulptur als Kurve zeichnen
-· Die Kurve gliedern
-· Durch die erhaltende Punkte Ebenen zeichnen
-· In jeder Ebene eine gewisse Anzahl von Punkten erstellen
-· Linien durch Punkten ziehen
-· Winkel von Linien ändern
-· Körper aus Linien Bekommen mit Loft-Anweisung
+* Richtung der Skulptur als Kurve zeichnen
+* Die Kurve gliedern
+* Durch die erhaltende Punkte Ebenen zeichnen
+* In jeder Ebene eine gewisse Anzahl von Punkten erstellen
+* Linien durch Punkten ziehen
+* Winkel von Linien ändern
+* Körper aus Linien Bekommen mit Loft-Anweisung
+
