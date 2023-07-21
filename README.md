@@ -17,4 +17,4 @@ Rhino-Python digitale Version
 * Linien durch Punkten ziehen
 * Winkel von Linien ändern
 * Körper aus Linien Bekommen mit Loft-Anweisung
-
+Video dazu: https://clipchamp.com/watch/URFfMm80kGd
